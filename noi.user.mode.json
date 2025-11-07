@@ -1,0 +1,137 @@
+{
+  "name": "Noi User Mode",
+  "mode_main": "https://chat.tabcut-inc.com/#/chat",
+  "mode_tray": "https://ddys.pro/",
+  "mode_partition": "",
+  "ua_main": "",
+  "ua_tray": "",
+  "noi_ask": [],
+  "modes": [
+    {
+      "id": "2e0829f187394d0cbcc991f34fce5e97",
+      "parent": 0,
+      "dir": true,
+      "text": "Tabcut"
+    },
+    {
+      "id": "4079be2792644ee1baf9542e75614b97",
+      "parent": 0,
+      "dir": true,
+      "text": "Chat"
+    },
+    {
+      "id": "9dbc939c6f5b443e90967a2ca84e1d43",
+      "parent": "noi@video",
+      "text": "CoolTools",
+      "url": "https://cooltools.top/#video"
+    },
+    {
+      "id": "f66f5d96abbc4cc589ee97efb6119791",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "云效",
+      "url": "https://devops.aliyun.com/projex/project/96d201c670ae3fe1cae2652304/bug"
+    },
+    {
+      "id": "cbec5807fac541f3b5f9e8ef2d800519",
+      "parent": "noi@video",
+      "text": "Download",
+      "url": "https://vget.xyz/"
+    },
+    {
+      "id": "006377664e5740de96f6cf29690a7e7c",
+      "parent": "noi@video",
+      "text": "懂车帝",
+      "url": "https://www.dongchedi.com/"
+    },
+    {
+      "id": "6e9a962fe0e04337b6116b1e04ea6b5d",
+      "parent": "noi@video",
+      "text": "抖音",
+      "url": "https://www.douyin.com/"
+    },
+    {
+      "id": "94136111f6aa49f9a8b1d34a4bead81f",
+      "parent": "4079be2792644ee1baf9542e75614b97",
+      "text": "Cursor",
+      "url": "https://cursor.com/agents"
+    },
+    {
+      "id": "d4ba9ad8b23b4a56b2f0b95ad28d318c",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "ChatGPT",
+      "url": "https://chat.tabcut-inc.com/#/chat"
+    },
+    {
+      "id": "bb1153dd8f4c4aec9a712929bb04b6c0",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "Autodl",
+      "url": "https://www.autodl.com/console/instance/list?tag_id="
+    },
+    {
+      "id": "ed3d91b74a564d268b50891431a667ef",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "阿里云日志服务",
+      "url": "https://sls.console.aliyun.com/lognext/project/topview-algorithm/overview?spm=5176.12818093_47.0.0.3be92cc9byQW78"
+    },
+    {
+      "id": "0ae3311e93f8420b8fe38b714b969ef0",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "阿里云服务控制台",
+      "url": "https://ecs.console.aliyun.com/server/i-0xib8xhskpr160jgor6k/detail?regionId=us-east-1"
+    },
+    {
+      "id": "0f8ff3f4d7f0467989ef854c027b7514",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "AWS-S3",
+      "url": "https://us-east-1.console.aws.amazon.com/s3/buckets/aigc?bucketType=general&region=us-east-1&tab=objects#"
+    },
+    {
+      "id": "353fbdca960c4ff0b62ee68734f38617",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "AWS-EC2",
+      "url": "https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false"
+    },
+    {
+      "id": "b198d81cd3ea4ad6851656e5d18e397e",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "Topview Server Nas_2",
+      "url": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/#/"
+    },
+    {
+      "id": "5c84380405b949bba24cf0ee592987f2",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "topview-devboost",
+      "url": "https://app.appsmith.com/app/topview-devboost/home-68be53cc89b2e36c6e1c35e4"
+    },
+    {
+      "id": "440449c7f58b45988d63c5a9b964ddea",
+      "parent": "4079be2792644ee1baf9542e75614b97",
+      "text": "Google AI Studio",
+      "url": "https://aistudio.google.com/prompts/new_chat"
+    },
+    {
+      "id": "8d1abd768b994521819a0a7b15847a5b",
+      "parent": "noi@video",
+      "text": "低端影视",
+      "url": "https://ddys.pro/"
+    },
+    {
+      "id": "aac644e290a94ded98fe460f7aac75c7",
+      "parent": "noi@video",
+      "text": "4k影视",
+      "url": "https://www.4kvm.me"
+    },
+    {
+      "id": "24a9858ae7fd4cb192d756e3e0b58086",
+      "parent": "noi@video",
+      "text": "奈菲影视",
+      "url": "https://www.nfyingshi.com"
+    },
+    {
+      "id": "6dbe8d7e5bda4f59a24fea6076799f4b",
+      "parent": "noi@email",
+      "text": "163网易",
+      "url": "https://mail.163.com"
+    }
+  ]
+}
