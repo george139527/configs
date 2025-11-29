@@ -1,6 +1,6 @@
 {
   "name": "Noi User Mode",
-  "mode_main": "https://chat.tabcut-inc.com/#/chat",
+  "mode_main": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/#/",
   "mode_tray": "https://ddys.pro/",
   "mode_partition": "",
   "ua_main": "",
@@ -8,10 +8,149 @@
   "noi_ask": [],
   "modes": [
     {
+      "id": "4fe1234d68a8417c98e7998c4aa9d232",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "download",
+      "url": "file:///Users/ldp/Desktop/download.html"
+    },
+    {
+      "id": "0a71ef1116f24dbfb36040ab55d084cc",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "openai",
+      "url": "https://openai.com/zh-Hans-CN/"
+    },
+    {
+      "id": "ac39be891074437f81ed1d016db5f560",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "anthropic",
+      "url": "https://www.anthropic.com/"
+    },
+    {
+      "id": "008b4b964f794cdb97004b2170336b2a",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "deepmind(Google)",
+      "url": "https://deepmind.google/"
+    },
+    {
+      "id": "8fcf4c93215242998626472b11f0af78",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "aistudio",
+      "url": "https://aistudio.google.com/prompts/new_chat"
+    },
+    {
+      "id": "2f349f4b4ee94952a193e42237c85256",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "x",
+      "url": "https://x.ai/"
+    },
+    {
+      "id": "f308fac0cd8b4fc4a1e4cc70c0c8483f",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "meta",
+      "url": "https://ai.meta.com/"
+    },
+    {
+      "id": "3bba8eccb5d745e09d78c6059ccc3f68",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "mistral",
+      "url": "https://mistral.ai/"
+    },
+    {
+      "id": "e118badcfb7d43ffaf230df189a6f79c",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "deepseek",
+      "url": "https://www.deepseek.com/"
+    },
+    {
+      "id": "fbb84f60fb2f4e369dea520020ebc106",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "tongyi(阿里国内)",
+      "url": "https://www.tongyi.com/"
+    },
+    {
+      "id": "79f56297f9fa4f018e1ab123f6f78099",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "qwen(阿里海外)",
+      "url": "https://chat.qwen.ai/"
+    },
+    {
+      "id": "82e8f059b4214903bf6c66abea128280",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "doubao(字节国内)",
+      "url": "https://www.doubao.com/chat/"
+    },
+    {
+      "id": "b261b48f830342a9a46311c7803b7140",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "dola(字节海外)",
+      "url": "https://www.dola.com/chat/"
+    },
+    {
+      "id": "53840ea27f70431189492573cafb2e0d",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "hunyuan(腾讯)",
+      "url": "https://hunyuan.tencent.com/"
+    },
+    {
+      "id": "f2331ae86db34e458fdf03c532b037cb",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "yiyan(百度)",
+      "url": "https://yiyan.baidu.com/"
+    },
+    {
+      "id": "9357f5bf9755492e84ab9480de296942",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "zhipuai(智谱AI)",
+      "url": "https://zhipuai.cn/"
+    },
+    {
+      "id": "9ec07f26b94d4889861e8afb61b9eb5e",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "moonshot(月之暗面)",
+      "url": "https://www.moonshot.cn/"
+    },
+    {
+      "id": "1ec92f46bd5d42338b57be10b9744b92",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "stepfun(阶跃星辰)",
+      "url": "https://stepfun.ai/"
+    },
+    {
+      "id": "d2ac6d261fc14da58adea0bf93c6ebbc",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "minimax",
+      "url": "https://www.minimax.io/"
+    },
+    {
+      "id": "27b25decb5d7417f8d8f3a3bc01a33f3",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "klingai(快手国内)",
+      "url": "https://app.klingai.com/cn/"
+    },
+    {
+      "id": "9bff0d8dec174013aaa277c77841655e",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "klingai-global(快手海外)",
+      "url": "https://klingai.com/global/"
+    },
+    {
+      "id": "e81a24a34dac4201b857736f03404f59",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "longcatai(美团)",
+      "url": "https://www.longcatai.org/"
+    },
+    {
       "id": "2e0829f187394d0cbcc991f34fce5e97",
       "parent": 0,
       "dir": true,
-      "text": "Tabcut"
+      "text": "Tabcut",
+      "checked": true
+    },
+    {
+      "id": "641a277af2e948cc86699326bdbd86ec",
+      "parent": 0,
+      "dir": true,
+      "text": "ALL-AI"
     },
     {
       "id": "4079be2792644ee1baf9542e75614b97",
@@ -59,7 +198,8 @@
       "id": "d4ba9ad8b23b4a56b2f0b95ad28d318c",
       "parent": "2e0829f187394d0cbcc991f34fce5e97",
       "text": "ChatGPT",
-      "url": "https://chat.tabcut-inc.com/#/chat"
+      "url": "https://chat.tabcut-inc.com/#/chat",
+      "checked": true
     },
     {
       "id": "bb1153dd8f4c4aec9a712929bb04b6c0",
@@ -96,12 +236,6 @@
       "parent": "2e0829f187394d0cbcc991f34fce5e97",
       "text": "Topview Server Nas_2",
       "url": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/#/"
-    },
-    {
-      "id": "5c84380405b949bba24cf0ee592987f2",
-      "parent": "2e0829f187394d0cbcc991f34fce5e97",
-      "text": "topview-devboost",
-      "url": "https://app.appsmith.com/app/topview-devboost/home-68be53cc89b2e36c6e1c35e4"
     },
     {
       "id": "440449c7f58b45988d63c5a9b964ddea",
