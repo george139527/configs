@@ -1,12 +1,18 @@
 {
   "name": "Noi User Mode",
-  "mode_main": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/#/",
+  "mode_main": "https://cooltools.top/#video",
   "mode_tray": "https://ddys.pro/",
   "mode_partition": "",
   "ua_main": "",
   "ua_tray": "",
   "noi_ask": [],
   "modes": [
+    {
+      "id": "d4a77c9050f24eefba75b76fb3e29364",
+      "parent": "noi@video",
+      "text": "发改会",
+      "url": "https://www.ndrc.gov.cn/gjzl/"
+    },
     {
       "id": "4fe1234d68a8417c98e7998c4aa9d232",
       "parent": "2e0829f187394d0cbcc991f34fce5e97",
@@ -143,8 +149,7 @@
       "id": "2e0829f187394d0cbcc991f34fce5e97",
       "parent": 0,
       "dir": true,
-      "text": "Tabcut",
-      "checked": true
+      "text": "Tabcut"
     },
     {
       "id": "641a277af2e948cc86699326bdbd86ec",
@@ -162,7 +167,8 @@
       "id": "9dbc939c6f5b443e90967a2ca84e1d43",
       "parent": "noi@video",
       "text": "CoolTools",
-      "url": "https://cooltools.top/#video"
+      "url": "https://cooltools.top/#video",
+      "checked": true
     },
     {
       "id": "f66f5d96abbc4cc589ee97efb6119791",
@@ -198,8 +204,7 @@
       "id": "d4ba9ad8b23b4a56b2f0b95ad28d318c",
       "parent": "2e0829f187394d0cbcc991f34fce5e97",
       "text": "ChatGPT",
-      "url": "https://chat.tabcut-inc.com/#/chat",
-      "checked": true
+      "url": "https://chat.tabcut-inc.com/#/chat"
     },
     {
       "id": "bb1153dd8f4c4aec9a712929bb04b6c0",
