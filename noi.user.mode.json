@@ -1,6 +1,6 @@
 {
   "name": "Noi User Mode",
-  "mode_main": "https://cooltools.top/#video",
+  "mode_main": "https://chat.tabcut-inc.com/#/chat",
   "mode_tray": "https://ddys.pro/",
   "mode_partition": "",
   "ua_main": "",
@@ -149,7 +149,8 @@
       "id": "2e0829f187394d0cbcc991f34fce5e97",
       "parent": 0,
       "dir": true,
-      "text": "Tabcut"
+      "text": "Tabcut",
+      "checked": true
     },
     {
       "id": "641a277af2e948cc86699326bdbd86ec",
@@ -167,8 +168,7 @@
       "id": "9dbc939c6f5b443e90967a2ca84e1d43",
       "parent": "noi@video",
       "text": "CoolTools",
-      "url": "https://cooltools.top/#video",
-      "checked": true
+      "url": "https://cooltools.top/#video"
     },
     {
       "id": "f66f5d96abbc4cc589ee97efb6119791",
@@ -221,14 +221,15 @@
     {
       "id": "0ae3311e93f8420b8fe38b714b969ef0",
       "parent": "2e0829f187394d0cbcc991f34fce5e97",
-      "text": "阿里云服务控制台",
-      "url": "https://ecs.console.aliyun.com/server/i-0xib8xhskpr160jgor6k/detail?regionId=us-east-1"
+      "text": "阿里云ECS",
+      "url": "https://home.console.aliyun.com/home/dashboard/ProductAndService"
     },
     {
       "id": "0f8ff3f4d7f0467989ef854c027b7514",
       "parent": "2e0829f187394d0cbcc991f34fce5e97",
       "text": "AWS-S3",
-      "url": "https://us-east-1.console.aws.amazon.com/s3/buckets/aigc?bucketType=general&region=us-east-1&tab=objects#"
+      "url": "https://us-east-1.console.aws.amazon.com/s3/buckets/aigc?bucketType=general&region=us-east-1&tab=objects#",
+      "checked": true
     },
     {
       "id": "353fbdca960c4ff0b62ee68734f38617",
@@ -241,6 +242,54 @@
       "parent": "2e0829f187394d0cbcc991f34fce5e97",
       "text": "Topview Server Nas_2",
       "url": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/#/"
+    },
+    {
+      "id": "8a223590369a40aeab0c4ff72d9b7422",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "docs.topview.ai",
+      "url": "https://docs.topview.ai/"
+    },
+    {
+      "id": "5ef1bf166ff04fdd89b1836b40344512",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "api.tu-zi",
+      "url": "https://api.tu-zi.com/"
+    },
+    {
+      "id": "70c56e7b187848e1bffe43907cd443ab",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "api.midsummer",
+      "url": "https://api.midsummer.work/"
+    },
+    {
+      "id": "0d7b5718308b499c98f6b573fd590516",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "api.302",
+      "url": "https://api.302.ai/"
+    },
+    {
+      "id": "baf57cf7399f4d9d8dd9e3a165db7b62",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "docs.cloud.google.com",
+      "url": "https://docs.cloud.google.com/docs?hl=zh-cn"
+    },
+    {
+      "id": "a4dcb9a3dab6405fbc481d067f2ab29d",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "wavespeed.ai",
+      "url": "https://wavespeed.ai/"
+    },
+    {
+      "id": "bf157d718155440aa3531bb87eb59b49",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "www.volcengine.com",
+      "url": "https://www.volcengine.com/docs/82379/1541594?lang=zh"
+    },
+    {
+      "id": "784ea2e7398e4a4182a627e2e3508199",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "replicate.com",
+      "url": "https://replicate.com/"
     },
     {
       "id": "440449c7f58b45988d63c5a9b964ddea",
