@@ -1,12 +1,36 @@
 {
   "name": "Noi User Mode",
-  "mode_main": "https://chat.tabcut-inc.com/#/chat",
+  "mode_main": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/#/",
   "mode_tray": "https://ddys.pro/",
   "mode_partition": "",
   "ua_main": "",
   "ua_tray": "",
   "noi_ask": [],
   "modes": [
+    {
+      "id": "fc74dc85dad24a029a9f13f91e304653",
+      "parent": 0,
+      "text": "GoogleCloudPlatform",
+      "url": "https://github.com/GoogleCloudPlatform"
+    },
+    {
+      "id": "19a3894e544a4e319ac260bc184b222b",
+      "parent": 0,
+      "text": "Prompt Engineering",
+      "url": "https://drive.google.com/file/d/1-QolrWM8IKaHUzj9hK2gbF6D6F169Bok/view"
+    },
+    {
+      "id": "1a7a74ea25c04b4b9ed293b9dab81a64",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/"
+    },
+    {
+      "id": "887d070c8af64d47bbabcdfdc97d83b1",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "AI公司",
+      "url": "https://baike.baidu.com/starmap/view?nodeId=783743685b98e22674f17d07&lemmaTitle=Vidu&lemmaId=64342795&starMapFrom=lemma_starMap&fromModule=lemma_starMap"
+    },
     {
       "id": "d4a77c9050f24eefba75b76fb3e29364",
       "parent": "noi@video",
@@ -40,8 +64,14 @@
     {
       "id": "8fcf4c93215242998626472b11f0af78",
       "parent": "641a277af2e948cc86699326bdbd86ec",
-      "text": "aistudio",
+      "text": "Google AI Studio",
       "url": "https://aistudio.google.com/prompts/new_chat"
+    },
+    {
+      "id": "578d0f56e02041e2b37965ff77659549",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "blackbox.ai",
+      "url": "https://www.blackbox.ai/"
     },
     {
       "id": "2f349f4b4ee94952a193e42237c85256",
@@ -146,11 +176,16 @@
       "url": "https://www.longcatai.org/"
     },
     {
+      "id": "7547646f10184ce4bee752ca6cbab0aa",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "black forest labs",
+      "url": "https://bfl.ai/"
+    },
+    {
       "id": "2e0829f187394d0cbcc991f34fce5e97",
       "parent": 0,
       "dir": true,
-      "text": "Tabcut",
-      "checked": true
+      "text": "Tabcut"
     },
     {
       "id": "641a277af2e948cc86699326bdbd86ec",
@@ -201,10 +236,10 @@
       "url": "https://cursor.com/agents"
     },
     {
-      "id": "d4ba9ad8b23b4a56b2f0b95ad28d318c",
+      "id": "412c29a4e2ce43fa9241c259855c81c3",
       "parent": "2e0829f187394d0cbcc991f34fce5e97",
       "text": "ChatGPT",
-      "url": "https://chat.tabcut-inc.com/#/chat"
+      "url": "http://chat.tabcut-inc.com"
     },
     {
       "id": "bb1153dd8f4c4aec9a712929bb04b6c0",
@@ -228,8 +263,7 @@
       "id": "0f8ff3f4d7f0467989ef854c027b7514",
       "parent": "2e0829f187394d0cbcc991f34fce5e97",
       "text": "AWS-S3",
-      "url": "https://us-east-1.console.aws.amazon.com/s3/buckets/aigc?bucketType=general&region=us-east-1&tab=objects#",
-      "checked": true
+      "url": "https://us-east-1.console.aws.amazon.com/s3/buckets/aigc?bucketType=general&region=us-east-1&tab=objects#"
     },
     {
       "id": "353fbdca960c4ff0b62ee68734f38617",
@@ -268,10 +302,10 @@
       "url": "https://api.302.ai/"
     },
     {
-      "id": "baf57cf7399f4d9d8dd9e3a165db7b62",
+      "id": "85e3ee20a9fc456492ed30e76ef50530",
       "parent": "2e0829f187394d0cbcc991f34fce5e97",
-      "text": "docs.cloud.google.com",
-      "url": "https://docs.cloud.google.com/docs?hl=zh-cn"
+      "text": "cloud.google.com",
+      "url": "https://cloud.google.com/?hl=zh_cn"
     },
     {
       "id": "a4dcb9a3dab6405fbc481d067f2ab29d",
