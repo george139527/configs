@@ -1,0 +1,597 @@
+{
+  "name": "Noi Cache Mode",
+  "version": "0.2.0",
+  "sync": "https://github.com/lencx/noi/blob/main/configs/noi.mode.json",
+  "mode_main": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/#/",
+  "mode_tray": "https://ddys.pro/",
+  "mode_partition": "",
+  "ua_main": "",
+  "ua_tray": "",
+  "noi_ask": [],
+  "modes": [
+    {
+      "id": "noi@ai",
+      "parent": 0,
+      "dir": true,
+      "text": "AI"
+    },
+    {
+      "id": "noi@dev",
+      "parent": 0,
+      "dir": true,
+      "text": "Dev"
+    },
+    {
+      "id": "noi@community",
+      "parent": 0,
+      "dir": true,
+      "text": "Community"
+    },
+    {
+      "id": "noi@design",
+      "parent": 0,
+      "dir": true,
+      "text": "Design"
+    },
+    {
+      "id": "noi@email",
+      "parent": 0,
+      "dir": true,
+      "text": "Email"
+    },
+    {
+      "id": "noi@video",
+      "parent": 0,
+      "dir": true,
+      "text": "Video",
+      "checked": true
+    },
+    {
+      "id": "2e0829f187394d0cbcc991f34fce5e97",
+      "parent": 0,
+      "dir": true,
+      "text": "Tabcut"
+    },
+    {
+      "id": "641a277af2e948cc86699326bdbd86ec",
+      "parent": 0,
+      "dir": true,
+      "text": "ALL-AI"
+    },
+    {
+      "id": "4079be2792644ee1baf9542e75614b97",
+      "parent": 0,
+      "dir": true,
+      "text": "Chat"
+    },
+    {
+      "id": "noi:chatgpt",
+      "parent": "noi@ai",
+      "text": "ChatGPT",
+      "url": "https://chatgpt.com"
+    },
+    {
+      "id": "noi:claude",
+      "parent": "noi@ai",
+      "text": "Claude",
+      "url": "https://claude.ai"
+    },
+    {
+      "id": "noi:gemini",
+      "parent": "noi@ai",
+      "text": "Gemini",
+      "url": "https://gemini.google.com"
+    },
+    {
+      "id": "noi:grok",
+      "parent": "noi@ai",
+      "text": "Grok",
+      "url": "https://grok.com"
+    },
+    {
+      "id": "noi:deepseek",
+      "parent": "noi@ai",
+      "text": "DeepSeek",
+      "url": "https://chat.deepseek.com"
+    },
+    {
+      "id": "noi:githubcopilot",
+      "parent": "noi@ai",
+      "text": "GitHub Copilot",
+      "url": "https://github.com/copilot"
+    },
+    {
+      "id": "noi:sora",
+      "parent": "noi@ai",
+      "text": "Sora",
+      "url": "https://sora.com"
+    },
+    {
+      "id": "noi:poe",
+      "parent": "noi@ai",
+      "text": "Poe",
+      "url": "https://poe.com"
+    },
+    {
+      "id": "noi:perplexity",
+      "parent": "noi@ai",
+      "text": "Perplexity",
+      "url": "https://www.perplexity.ai"
+    },
+    {
+      "id": "noi:copilot",
+      "parent": "noi@ai",
+      "text": "Copilot",
+      "url": "https://copilot.microsoft.com"
+    },
+    {
+      "id": "noi:huggingchat",
+      "parent": "noi@ai",
+      "text": "HuggingChat",
+      "url": "https://huggingface.co/chat"
+    },
+    {
+      "id": "noi:qwen",
+      "parent": "noi@ai",
+      "text": "Qwen",
+      "url": "https://chat.qwen.ai"
+    },
+    {
+      "id": "noi:groq",
+      "parent": "noi@ai",
+      "text": "Groq",
+      "url": "https://chat.groq.com"
+    },
+    {
+      "id": "noi:lechatmistral",
+      "parent": "noi@ai",
+      "text": "Le Chat Mistral",
+      "url": "https://chat.mistral.ai/chat"
+    },
+    {
+      "id": "noi:pi",
+      "parent": "noi@ai",
+      "text": "Pi",
+      "url": "https://pi.ai/talk"
+    },
+    {
+      "id": "noi:notebooklm",
+      "parent": "noi@ai",
+      "text": "NotebookLM",
+      "url": "https://notebooklm.google.com"
+    },
+    {
+      "id": "noi:coze",
+      "parent": "noi@ai",
+      "text": "Coze",
+      "url": "https://www.coze.com/home"
+    },
+    {
+      "id": "noi:you",
+      "parent": "noi@ai",
+      "text": "YOU",
+      "url": "https://you.com"
+    },
+    {
+      "id": "noi:midjourney",
+      "parent": "noi@ai",
+      "text": "Midjourney",
+      "url": "https://www.midjourney.com"
+    },
+    {
+      "id": "noi:suno",
+      "parent": "noi@ai",
+      "text": "Suno AI",
+      "url": "https://suno.com"
+    },
+    {
+      "id": "noi:github",
+      "parent": "noi@dev",
+      "text": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "id": "noi:replit",
+      "parent": "noi@dev",
+      "text": "Replit",
+      "url": "https://replit.com"
+    },
+    {
+      "id": "noi:huggingface",
+      "parent": "noi@dev",
+      "text": "Hugging Face",
+      "url": "https://huggingface.co"
+    },
+    {
+      "id": "noi:vscode",
+      "parent": "noi@dev",
+      "text": "VS Code",
+      "url": "https://vscode.dev"
+    },
+    {
+      "id": "noi:projectidx",
+      "parent": "noi@dev",
+      "text": "Project IDX",
+      "url": "https://idx.google.com"
+    },
+    {
+      "id": "noi:x",
+      "parent": "noi@community",
+      "text": "X",
+      "url": "https://twitter.com"
+    },
+    {
+      "id": "noi:discord",
+      "parent": "noi@community",
+      "text": "Discord",
+      "url": "https://discord.com"
+    },
+    {
+      "id": "noi:hackernews",
+      "parent": "noi@community",
+      "text": "Hacker News",
+      "url": "https://news.ycombinator.com"
+    },
+    {
+      "id": "noi:figma",
+      "parent": "noi@design",
+      "text": "Figma",
+      "url": "https://www.figma.com"
+    },
+    {
+      "id": "noi:dribbble",
+      "parent": "noi@design",
+      "text": "Dribbble",
+      "url": "https://dribbble.com"
+    },
+    {
+      "id": "noi:gmail",
+      "parent": "noi@email",
+      "text": "Gmail",
+      "url": "https://mail.google.com"
+    },
+    {
+      "id": "noi:outlook",
+      "parent": "noi@email",
+      "text": "Outlook",
+      "url": "https://outlook.live.com"
+    },
+    {
+      "id": "noi:youtube",
+      "parent": "noi@video",
+      "text": "YouTube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "id": "fc74dc85dad24a029a9f13f91e304653",
+      "parent": 0,
+      "text": "GoogleCloudPlatform",
+      "url": "https://github.com/GoogleCloudPlatform"
+    },
+    {
+      "id": "19a3894e544a4e319ac260bc184b222b",
+      "parent": 0,
+      "text": "Prompt Engineering",
+      "url": "https://drive.google.com/file/d/1-QolrWM8IKaHUzj9hK2gbF6D6F169Bok/view"
+    },
+    {
+      "id": "1a7a74ea25c04b4b9ed293b9dab81a64",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/"
+    },
+    {
+      "id": "887d070c8af64d47bbabcdfdc97d83b1",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "AI公司",
+      "url": "https://baike.baidu.com/starmap/view?nodeId=783743685b98e22674f17d07&lemmaTitle=Vidu&lemmaId=64342795&starMapFrom=lemma_starMap&fromModule=lemma_starMap"
+    },
+    {
+      "id": "d4a77c9050f24eefba75b76fb3e29364",
+      "parent": "noi@video",
+      "text": "发改会",
+      "url": "https://www.ndrc.gov.cn/gjzl/"
+    },
+    {
+      "id": "4fe1234d68a8417c98e7998c4aa9d232",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "download",
+      "url": "file:///Users/ldp/Desktop/download.html"
+    },
+    {
+      "id": "0a71ef1116f24dbfb36040ab55d084cc",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "openai",
+      "url": "https://openai.com/zh-Hans-CN/"
+    },
+    {
+      "id": "ac39be891074437f81ed1d016db5f560",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "anthropic",
+      "url": "https://www.anthropic.com/"
+    },
+    {
+      "id": "008b4b964f794cdb97004b2170336b2a",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "deepmind(Google)",
+      "url": "https://deepmind.google/"
+    },
+    {
+      "id": "8fcf4c93215242998626472b11f0af78",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "Google AI Studio",
+      "url": "https://aistudio.google.com/prompts/new_chat"
+    },
+    {
+      "id": "578d0f56e02041e2b37965ff77659549",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "blackbox.ai",
+      "url": "https://www.blackbox.ai/"
+    },
+    {
+      "id": "2f349f4b4ee94952a193e42237c85256",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "x",
+      "url": "https://x.ai/"
+    },
+    {
+      "id": "f308fac0cd8b4fc4a1e4cc70c0c8483f",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "meta",
+      "url": "https://ai.meta.com/"
+    },
+    {
+      "id": "3bba8eccb5d745e09d78c6059ccc3f68",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "mistral",
+      "url": "https://mistral.ai/"
+    },
+    {
+      "id": "e118badcfb7d43ffaf230df189a6f79c",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "deepseek",
+      "url": "https://www.deepseek.com/"
+    },
+    {
+      "id": "fbb84f60fb2f4e369dea520020ebc106",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "tongyi(阿里国内)",
+      "url": "https://www.tongyi.com/"
+    },
+    {
+      "id": "79f56297f9fa4f018e1ab123f6f78099",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "qwen(阿里海外)",
+      "url": "https://chat.qwen.ai/"
+    },
+    {
+      "id": "82e8f059b4214903bf6c66abea128280",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "doubao(字节国内)",
+      "url": "https://www.doubao.com/chat/"
+    },
+    {
+      "id": "b261b48f830342a9a46311c7803b7140",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "dola(字节海外)",
+      "url": "https://www.dola.com/chat/"
+    },
+    {
+      "id": "53840ea27f70431189492573cafb2e0d",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "hunyuan(腾讯)",
+      "url": "https://hunyuan.tencent.com/"
+    },
+    {
+      "id": "f2331ae86db34e458fdf03c532b037cb",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "yiyan(百度)",
+      "url": "https://yiyan.baidu.com/"
+    },
+    {
+      "id": "9357f5bf9755492e84ab9480de296942",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "zhipuai(智谱AI)",
+      "url": "https://zhipuai.cn/"
+    },
+    {
+      "id": "9ec07f26b94d4889861e8afb61b9eb5e",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "moonshot(月之暗面)",
+      "url": "https://www.moonshot.cn/"
+    },
+    {
+      "id": "1ec92f46bd5d42338b57be10b9744b92",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "stepfun(阶跃星辰)",
+      "url": "https://stepfun.ai/"
+    },
+    {
+      "id": "d2ac6d261fc14da58adea0bf93c6ebbc",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "minimax",
+      "url": "https://www.minimax.io/"
+    },
+    {
+      "id": "27b25decb5d7417f8d8f3a3bc01a33f3",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "klingai(快手国内)",
+      "url": "https://app.klingai.com/cn/"
+    },
+    {
+      "id": "9bff0d8dec174013aaa277c77841655e",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "klingai-global(快手海外)",
+      "url": "https://klingai.com/global/"
+    },
+    {
+      "id": "e81a24a34dac4201b857736f03404f59",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "longcatai(美团)",
+      "url": "https://www.longcatai.org/"
+    },
+    {
+      "id": "7547646f10184ce4bee752ca6cbab0aa",
+      "parent": "641a277af2e948cc86699326bdbd86ec",
+      "text": "black forest labs",
+      "url": "https://bfl.ai/"
+    },
+    {
+      "id": "9dbc939c6f5b443e90967a2ca84e1d43",
+      "parent": "noi@video",
+      "text": "CoolTools",
+      "url": "https://cooltools.top/#video",
+      "checked": true
+    },
+    {
+      "id": "f66f5d96abbc4cc589ee97efb6119791",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "云效",
+      "url": "https://devops.aliyun.com/projex/project/96d201c670ae3fe1cae2652304/bug"
+    },
+    {
+      "id": "cbec5807fac541f3b5f9e8ef2d800519",
+      "parent": "noi@video",
+      "text": "Download",
+      "url": "https://vget.xyz/"
+    },
+    {
+      "id": "006377664e5740de96f6cf29690a7e7c",
+      "parent": "noi@video",
+      "text": "懂车帝",
+      "url": "https://www.dongchedi.com/"
+    },
+    {
+      "id": "6e9a962fe0e04337b6116b1e04ea6b5d",
+      "parent": "noi@video",
+      "text": "抖音",
+      "url": "https://www.douyin.com/"
+    },
+    {
+      "id": "94136111f6aa49f9a8b1d34a4bead81f",
+      "parent": "4079be2792644ee1baf9542e75614b97",
+      "text": "Cursor",
+      "url": "https://cursor.com/agents"
+    },
+    {
+      "id": "412c29a4e2ce43fa9241c259855c81c3",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "ChatGPT",
+      "url": "http://chat.tabcut-inc.com"
+    },
+    {
+      "id": "bb1153dd8f4c4aec9a712929bb04b6c0",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "Autodl",
+      "url": "https://www.autodl.com/console/instance/list?tag_id="
+    },
+    {
+      "id": "ed3d91b74a564d268b50891431a667ef",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "阿里云日志服务",
+      "url": "https://sls.console.aliyun.com/lognext/project/topview-algorithm/overview?spm=5176.12818093_47.0.0.3be92cc9byQW78"
+    },
+    {
+      "id": "0ae3311e93f8420b8fe38b714b969ef0",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "阿里云ECS",
+      "url": "https://home.console.aliyun.com/home/dashboard/ProductAndService"
+    },
+    {
+      "id": "0f8ff3f4d7f0467989ef854c027b7514",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "AWS-S3",
+      "url": "https://us-east-1.console.aws.amazon.com/s3/buckets/aigc?bucketType=general&region=us-east-1&tab=objects#"
+    },
+    {
+      "id": "353fbdca960c4ff0b62ee68734f38617",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "AWS-EC2",
+      "url": "https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false"
+    },
+    {
+      "id": "b198d81cd3ea4ad6851656e5d18e397e",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "Topview Server Nas_2",
+      "url": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/#/"
+    },
+    {
+      "id": "8a223590369a40aeab0c4ff72d9b7422",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "docs.topview.ai",
+      "url": "https://docs.topview.ai/"
+    },
+    {
+      "id": "5ef1bf166ff04fdd89b1836b40344512",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "api.tu-zi",
+      "url": "https://api.tu-zi.com/"
+    },
+    {
+      "id": "70c56e7b187848e1bffe43907cd443ab",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "api.midsummer",
+      "url": "https://api.midsummer.work/"
+    },
+    {
+      "id": "0d7b5718308b499c98f6b573fd590516",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "api.302",
+      "url": "https://api.302.ai/"
+    },
+    {
+      "id": "85e3ee20a9fc456492ed30e76ef50530",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "cloud.google.com",
+      "url": "https://cloud.google.com/?hl=zh_cn"
+    },
+    {
+      "id": "a4dcb9a3dab6405fbc481d067f2ab29d",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "wavespeed.ai",
+      "url": "https://wavespeed.ai/"
+    },
+    {
+      "id": "bf157d718155440aa3531bb87eb59b49",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "www.volcengine.com",
+      "url": "https://www.volcengine.com/docs/82379/1541594?lang=zh"
+    },
+    {
+      "id": "784ea2e7398e4a4182a627e2e3508199",
+      "parent": "2e0829f187394d0cbcc991f34fce5e97",
+      "text": "replicate.com",
+      "url": "https://replicate.com/"
+    },
+    {
+      "id": "440449c7f58b45988d63c5a9b964ddea",
+      "parent": "4079be2792644ee1baf9542e75614b97",
+      "text": "Google AI Studio",
+      "url": "https://aistudio.google.com/prompts/new_chat"
+    },
+    {
+      "id": "8d1abd768b994521819a0a7b15847a5b",
+      "parent": "noi@video",
+      "text": "低端影视",
+      "url": "https://ddys.pro/"
+    },
+    {
+      "id": "aac644e290a94ded98fe460f7aac75c7",
+      "parent": "noi@video",
+      "text": "4k影视",
+      "url": "https://www.4kvm.me"
+    },
+    {
+      "id": "24a9858ae7fd4cb192d756e3e0b58086",
+      "parent": "noi@video",
+      "text": "奈菲影视",
+      "url": "https://www.nfyingshi.com"
+    },
+    {
+      "id": "6dbe8d7e5bda4f59a24fea6076799f4b",
+      "parent": "noi@email",
+      "text": "163网易",
+      "url": "https://mail.163.com"
+    }
+  ]
+}
