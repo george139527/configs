@@ -4,21 +4,8 @@
     "dir": true,
     "text": "Tabcut",
     "iconDirDark": "/Users/ldp/Library/Application Support/Noi/icon/tabcut.jpeg",
-    "iconDirOpenDark": "/Users/ldp/Library/Application Support/Noi/icon//tabcut.jpeg",
+    "iconDirOpenDark": "/Users/ldp/Library/Application Support/Noi/icon/tabcut.jpeg",
     "parent": 0
-  },
-  {
-    "id": "019ba65cf06271fb8bb30681338bfd87",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "download",
-    "url": "file:///Users/ldp/Desktop/tabcut/download.html"
-  },
-  {
-    "id": "f66f5d96abbc4cc589ee97efb6119791",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "云效",
-    "url": "https://devops.aliyun.com/projex/project/96d201c670ae3fe1cae2652304/bug",
-    "favicon": "data:image/svg+xml,%3Csvg%20width%3D%22240%22%20height%3D%22240%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cdefs%3E%3ClinearGradient%20x1%3D%2250.007%25%22%20y1%3D%2299.839%25%22%20x2%3D%2250.007%25%22%20y2%3D%22.339%25%22%20id%3D%22a%22%3E%3Cstop%20stop-color%3D%22%23006ad4%22%20stop-opacity%3D%22.5%22%20offset%3D%220%25%22%2F%3E%3Cstop%20stop-color%3D%22%23006ad4%22%20stop-opacity%3D%22.2%22%20offset%3D%22100%25%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20x1%3D%2250.035%25%22%20y1%3D%22-.079%25%22%20x2%3D%2250.035%25%22%20y2%3D%2299.929%25%22%20id%3D%22b%22%3E%3Cstop%20stop-color%3D%22%23006ad4%22%20offset%3D%220%25%22%2F%3E%3Cstop%20stop-color%3D%22%23006ad4%22%20stop-opacity%3D%22.5%22%20offset%3D%22100%25%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Crect%20width%3D%22240%22%20height%3D%22240%22%20rx%3D%2212%22%2F%3E%3Cg%20transform%3D%22translate(24%2024)%22%20fill-rule%3D%22nonzero%22%3E%3Cpath%20d%3D%22m192%20191.774-67.621-89.901%2048.997-67.087-33.921-26.202-69.395%2093.74%2060.748%2080.64c4.213%205.648%2010.642%208.81%2017.737%208.81H192Z%22%20fill%3D%22url(%23a)%22%2F%3E%3Cellipse%20fill%3D%22%23006ad4%22%20cx%3D%22156.527%22%20cy%3D%2221.685%22%20rx%3D%2221.284%22%20ry%3D%2221.685%22%2F%3E%3Cpath%20d%3D%22M124.379%20101.873%2061.413%2018.296c-4.212-5.647-10.642-8.809-17.736-8.809H0l69.838%2092.838L3.77%20192h43.012c7.094%200%2013.524-3.388%2017.736-9.035l59.862-81.092Z%22%20fill%3D%22url(%23b)%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   },
   {
     "id": "412c29a4e2ce43fa9241c259855c81c3",
@@ -28,99 +15,204 @@
     "favicon": "https://chat.tabcut-inc.com/favicon.ico"
   },
   {
-    "id": "019bb6e3e3db73b899029e865f6d635f",
+    "id": "f66f5d96abbc4cc589ee97efb6119791",
     "parent": "2e0829f187394d0cbcc991f34fce5e97",
+    "text": "云效",
+    "url": "https://devops.aliyun.com/projex/project/96d201c670ae3fe1cae2652304/bug",
+    "favicon": "data:image/svg+xml,%3Csvg%20width%3D%22240%22%20height%3D%22240%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cdefs%3E%3ClinearGradient%20x1%3D%2250.007%25%22%20y1%3D%2299.839%25%22%20x2%3D%2250.007%25%22%20y2%3D%22.339%25%22%20id%3D%22a%22%3E%3Cstop%20stop-color%3D%22%23006ad4%22%20stop-opacity%3D%22.5%22%20offset%3D%220%25%22%2F%3E%3Cstop%20stop-color%3D%22%23006ad4%22%20stop-opacity%3D%22.2%22%20offset%3D%22100%25%22%2F%3E%3C%2FlinearGradient%3E%3ClinearGradient%20x1%3D%2250.035%25%22%20y1%3D%22-.079%25%22%20x2%3D%2250.035%25%22%20y2%3D%2299.929%25%22%20id%3D%22b%22%3E%3Cstop%20stop-color%3D%22%23006ad4%22%20offset%3D%220%25%22%2F%3E%3Cstop%20stop-color%3D%22%23006ad4%22%20stop-opacity%3D%22.5%22%20offset%3D%22100%25%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Crect%20width%3D%22240%22%20height%3D%22240%22%20rx%3D%2212%22%2F%3E%3Cg%20transform%3D%22translate(24%2024)%22%20fill-rule%3D%22nonzero%22%3E%3Cpath%20d%3D%22m192%20191.774-67.621-89.901%2048.997-67.087-33.921-26.202-69.395%2093.74%2060.748%2080.64c4.213%205.648%2010.642%208.81%2017.737%208.81H192Z%22%20fill%3D%22url(%23a)%22%2F%3E%3Cellipse%20fill%3D%22%23006ad4%22%20cx%3D%22156.527%22%20cy%3D%2221.685%22%20rx%3D%2221.284%22%20ry%3D%2221.685%22%2F%3E%3Cpath%20d%3D%22M124.379%20101.873%2061.413%2018.296c-4.212-5.647-10.642-8.809-17.736-8.809H0l69.838%2092.838L3.77%20192h43.012c7.094%200%2013.524-3.388%2017.736-9.035l59.862-81.092Z%22%20fill%3D%22url(%23b)%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+  },
+  {
+    "id": "019bca098fe274fca7f45ce8c08f1984",
+    "text": "主播宝",
+    "parent": "2e0829f187394d0cbcc991f34fce5e97",
+    "dir": true
+  },
+  {
+    "id": "019bca0adeb5725ab45744bde0cf7c39",
+    "parent": "019bca098fe274fca7f45ce8c08f1984",
+    "text": "主播宝管理后台-正式环境",
+    "url": "http://43.138.176.148:8211/#/home",
+    "favicon": "http://43.138.176.148:8211/favicon.ico"
+  },
+  {
+    "id": "019bca0a3d1e75ab8f03137639383a11",
+    "parent": "019bca098fe274fca7f45ce8c08f1984",
+    "text": "主播宝管理后台-测试环境",
+    "url": "http://43.138.176.148:8000/#/home"
+  },
+  {
+    "id": "019bca0cec9a768f89a0f12ad4c60940",
+    "parent": "019bca098fe274fca7f45ce8c08f1984",
+    "text": "国内网页版直播-正式环境",
+    "url": "https://live.tekan.cn/live",
+    "favicon": "https://live.tekan.cn/favicon.ico"
+  },
+  {
+    "id": "019bca0c9880732b9fe8be2455a9bc35",
+    "parent": "019bca098fe274fca7f45ce8c08f1984",
+    "text": "国内网页版直播-测试环境",
+    "url": "https://live-test.tekan.cn/live",
+    "favicon": "https://live-test.tekan.cn/favicon.ico"
+  },
+  {
+    "id": "019bca0d882074bcaf5bdbebb611ad21",
+    "parent": "019bca098fe274fca7f45ce8c08f1984",
+    "text": "国外网页版直播-正式环境",
+    "url": "https://live.topview.ai/live",
+    "favicon": "https://live.topview.ai/favicon_topview.ico"
+  },
+  {
+    "id": "019bca0d3d08755d9e01ab7a82ee9189",
+    "parent": "019bca098fe274fca7f45ce8c08f1984",
+    "text": "国外网页版直播-测试环境",
+    "url": "https://live-test.topview.ai/live",
+    "favicon": "https://live-test.topview.ai/favicon_topview.ico"
+  },
+  {
+    "id": "019bca0b636e72d49dc856035bbe5a78",
+    "parent": "019bca098fe274fca7f45ce8c08f1984",
+    "text": "主播宝后台管理-代理商",
+    "url": "http://120.27.129.179:3000/account"
+  },
+  {
+    "id": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "Topview",
+    "dir": true,
+    "parent": "2e0829f187394d0cbcc991f34fce5e97"
+  },
+  {
+    "id": "b198d81cd3ea4ad6851656e5d18e397e",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "Topview Server Nas_2",
+    "url": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/#/",
+    "favicon": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/icon.ico"
+  },
+  {
+    "id": "019ba65cf06271fb8bb30681338bfd87",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "download",
+    "url": "file:///Users/ldp/Desktop/tabcut/download.html"
+  },
+  {
+    "id": "019bca0ef3ee74b3a337a540756a5418",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "topview-正式环境",
+    "url": "https://www.topview.ai/dashboard/home"
+  },
+  {
+    "id": "019bca0eb53e76f898b5de5c5ff62ff3",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "topview-测试环境",
+    "url": "https://aigc-web-tabcut.vercel.app/dashboard/projects",
+    "favicon": "https://aigc-web-tabcut.vercel.app/favicon.ico"
+  },
+  {
+    "id": "019bca106dad72a9826be2020d34c412",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "字幕库运营后台-正式环境",
+    "url": "https://topview-dashboard.vercel.app/dashboard/clipResource/backgroundMusic",
+    "favicon": "https://topview-dashboard.vercel.app/favicon.ico"
+  },
+  {
+    "id": "019bca10d0a5747bbc7d32747731527d",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "字幕库运营后台-测试环境",
+    "url": "https://topview-dashboard-preview.vercel.app/dashboard/clipResource/backgroundMusic",
+    "favicon": "https://topview-dashboard-preview.vercel.app/favicon.ico"
+  },
+  {
+    "id": "8a223590369a40aeab0c4ff72d9b7422",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "docs.topview.ai",
+    "url": "https://docs.topview.ai/"
+  },
+  {
+    "id": "5ef1bf166ff04fdd89b1836b40344512",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "api.tu-zi",
+    "url": "https://api.tu-zi.com/"
+  },
+  {
+    "id": "70c56e7b187848e1bffe43907cd443ab",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "api.midsummer",
+    "url": "https://api.midsummer.work/"
+  },
+  {
+    "id": "0d7b5718308b499c98f6b573fd590516",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "api.302",
+    "url": "https://api.302.ai/"
+  },
+  {
+    "id": "85e3ee20a9fc456492ed30e76ef50530",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "cloud.google.com",
+    "url": "https://cloud.google.com/?hl=zh_cn"
+  },
+  {
+    "id": "a4dcb9a3dab6405fbc481d067f2ab29d",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "wavespeed.ai",
+    "url": "https://wavespeed.ai/"
+  },
+  {
+    "id": "bf157d718155440aa3531bb87eb59b49",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "www.volcengine.com",
+    "url": "https://www.volcengine.com/docs/82379/1541594?lang=zh"
+  },
+  {
+    "id": "784ea2e7398e4a4182a627e2e3508199",
+    "parent": "019bca0f22e07741be416361b5cf6ec7",
+    "text": "replicate.com",
+    "url": "https://replicate.com/"
+  },
+  {
+    "id": "019bca166f3e71bfbf271a28d8e8524d",
+    "text": "服务商",
+    "parent": "2e0829f187394d0cbcc991f34fce5e97",
+    "dir": true
+  },
+  {
+    "id": "019bb6e3e3db73b899029e865f6d635f",
+    "parent": "019bca166f3e71bfbf271a28d8e8524d",
     "text": "Novita",
     "url": "https://novita.ai/gpus-console/instances",
     "favicon": "https://novita.ai/favicon-dark.ico"
   },
   {
     "id": "bb1153dd8f4c4aec9a712929bb04b6c0",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
+    "parent": "019bca166f3e71bfbf271a28d8e8524d",
     "text": "Autodl",
     "url": "https://www.autodl.com/console/instance/list?tag_id=",
     "favicon": "https://www.autodl.com/favicon.png"
   },
   {
     "id": "ed3d91b74a564d268b50891431a667ef",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
+    "parent": "019bca166f3e71bfbf271a28d8e8524d",
     "text": "阿里云日志服务",
     "url": "https://sls.console.aliyun.com/lognext/project/topview-algorithm/overview?spm=5176.12818093_47.0.0.3be92cc9byQW78",
     "favicon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico"
   },
   {
     "id": "0ae3311e93f8420b8fe38b714b969ef0",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
+    "parent": "019bca166f3e71bfbf271a28d8e8524d",
     "text": "阿里云ECS",
     "url": "https://home.console.aliyun.com/home/dashboard/ProductAndService",
     "favicon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico"
   },
   {
-    "id": "0f8ff3f4d7f0467989ef854c027b7514",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "AWS-S3",
-    "url": "https://us-east-1.console.aws.amazon.com/s3/buckets/aigc?bucketType=general&region=us-east-1&tab=objects#"
-  },
-  {
     "id": "353fbdca960c4ff0b62ee68734f38617",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
+    "parent": "019bca166f3e71bfbf271a28d8e8524d",
     "text": "AWS-EC2",
     "url": "https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false"
   },
   {
-    "id": "b198d81cd3ea4ad6851656e5d18e397e",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "Topview Server Nas_2",
-    "url": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/#/",
-    "favicon": "https://6e0bdd5c9e9a63a1-9898.us-ca-nas-2.gpu-instance.novita.ai/icon.ico"
-  },
-  {
-    "id": "8a223590369a40aeab0c4ff72d9b7422",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "docs.topview.ai",
-    "url": "https://docs.topview.ai/"
-  },
-  {
-    "id": "5ef1bf166ff04fdd89b1836b40344512",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "api.tu-zi",
-    "url": "https://api.tu-zi.com/"
-  },
-  {
-    "id": "70c56e7b187848e1bffe43907cd443ab",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "api.midsummer",
-    "url": "https://api.midsummer.work/"
-  },
-  {
-    "id": "0d7b5718308b499c98f6b573fd590516",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "api.302",
-    "url": "https://api.302.ai/"
-  },
-  {
-    "id": "85e3ee20a9fc456492ed30e76ef50530",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "cloud.google.com",
-    "url": "https://cloud.google.com/?hl=zh_cn"
-  },
-  {
-    "id": "a4dcb9a3dab6405fbc481d067f2ab29d",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "wavespeed.ai",
-    "url": "https://wavespeed.ai/"
-  },
-  {
-    "id": "bf157d718155440aa3531bb87eb59b49",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "www.volcengine.com",
-    "url": "https://www.volcengine.com/docs/82379/1541594?lang=zh"
-  },
-  {
-    "id": "784ea2e7398e4a4182a627e2e3508199",
-    "parent": "2e0829f187394d0cbcc991f34fce5e97",
-    "text": "replicate.com",
-    "url": "https://replicate.com/"
+    "id": "0f8ff3f4d7f0467989ef854c027b7514",
+    "parent": "019bca166f3e71bfbf271a28d8e8524d",
+    "text": "AWS-S3",
+    "url": "https://us-east-1.console.aws.amazon.com/s3/buckets/aigc?bucketType=general&region=us-east-1&tab=objects#"
   },
   {
     "id": "noi@dev",
@@ -130,7 +222,6 @@
     "iconDirOpen": "noi_lightning",
     "iconDirDark": "/Users/ldp/Library/Application Support/Noi/icon/dev.png",
     "iconDirOpenDark": "/Users/ldp/Library/Application Support/Noi/icon/dev.png",
-    "dirOpen": true,
     "parent": 0
   },
   {
@@ -787,14 +878,6 @@
     "text": "163网易",
     "url": "https://mail.163.com",
     "favicon": "https://mail.163.com/favicon.ico"
-  },
-  {
-    "id": "019bc1c0d19f73cbbc2954a1c6499f4b",
-    "text": "帝王之旅 第2集 帝王之旅 02-电视剧-高清完整正版视频在线观看-优酷",
-    "url": "https://v.youku.com/v_show/id_XNDQ3Mjk4NzQw.html?spm=a2hkm.8166622.PhoneSokuProgram_1.dplaybutton&s=cbff9e8c962411de83b1",
-    "favicon": "https://img.alicdn.com/imgextra/i2/O1CN01BeAcgL1ywY0G5nSn8_!!6000000006643-2-tps-195-195.png",
-    "temp": true,
-    "parent": 0
   },
   {
     "id": "noi:google",
